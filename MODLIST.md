@@ -40,7 +40,7 @@
 - [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) (by Chaosyr)
 - [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) (by SHadows_of_Fire)
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (by olafskii)
-- [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by SHadows_of_Fire)
+- [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire)
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) (by malte0811)
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (by jozufozu)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el)
