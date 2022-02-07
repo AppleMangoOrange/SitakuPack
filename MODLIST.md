@@ -1,5 +1,5 @@
-## Sitaku 8<sup>TH</sup> Survival
-# Ordered alphabetically (Report any discrepancies)
+# Sitaku 8<sup>TH</sup> Survival
+## Ordered alphabetically (Report any discrepancies)
 - [Advanced Shulkerboxes](https://www.curseforge.com/minecraft/mc-mods/advanced-shulkerboxes) (by henkelmax)
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) (by QueenOfMissiles)
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (by Alexthe668)
