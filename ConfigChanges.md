@@ -54,7 +54,6 @@
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz)
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (by techbrew)
 	Changed config
-	Have to set up server-side configuration
 - [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder)
 - [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder)
 - [KubeJS Immerisve Engineering](https://www.curseforge.com/minecraft/mc-mods/kubejs-immersive-engineering) (by LatvianModder)
