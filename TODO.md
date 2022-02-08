@@ -2,8 +2,6 @@
 ## Not Ordered
 
 ### Random Ideas:
-- [ ] Set up 'JourneyMap' server-side configuration
-- [ ] Test out magnesium when it comes out
 - [ ] See how well optifine works with the modpack (prob lots of glitches, so might not be useful at all)
 - [ ] Find a way to make the ender dragon fight harder
 - [ ] Find a way to add more bosses
@@ -11,8 +9,7 @@
 - [ ] One or two more dimension mods
 - [ ] A mod that properly uses curios API (suggested Artifacts)
 - [ ] Add mod that makes end interesting (nullscape does not work)
-- [ ] Apotheosis, but only for Enchantment, Spawner module (make the spawner modifiers expensive) and maybe the village module
-- [ ] Maybe have a custom font
+- [ ] Maybe have a custom font for the modpack
 
 ### Mod Suggestions: (please only remove items from this list after they have been added/discussed fully)
 - [ ] [MrCrafish's Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
@@ -24,9 +21,11 @@
 - [ ] [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) (OP items can be tweaked)
 - [ ] [Balanced Flight](https://www.curseforge.com/minecraft/mc-mods/balanced-flight) (Disable ascended ring)
 - [ ] [Epic Fight](https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod) (Amazing mod that adds minecraft dungeons-like RPG aspect, makes Neat obsolete, would add a ton of work, but also a ton of fun to gameplay)
+- [ ] [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) (only for Enchantment, Spawner module (make the spawner modifiers expensive) and maybe the village module)
 
 ### Mods to add after they update (mods we really want to add but are stuck in older versions):
 - [ ] [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
+- [ ] Magnesium
 
 ### Look at and tweak the configs of:
 - [ ] Carry On (for blacklisting/whitelisting blocks)
@@ -37,6 +36,7 @@
 - [ ] Villager Names (add more custom names)
 - [ ] wthit (Add blocks to blacklist)
 - [ ] Enchantment Descriptions (add descriptions for all enchantments if not already existing)
+- [ ] JourneyMap (set up server-side configs)
 
 
 ### KubeJS (Add/Tweak recipes for):
