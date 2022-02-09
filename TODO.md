@@ -13,6 +13,9 @@
 - [ ] Use Patchouli to make a guide book for the mod
 - [ ] Set up default keybinds in the defaultoptions folder
 - [ ] Move all modpack-related data to its own folder
+- [ ] Remove recipes for default tools: iron, diamond, netherite
+- [ ] Reduce ore spawning rates
+- [ ] Potentially reduce ore drop rates
 - [ ] 
 
 ### Mod Suggestions: (please only remove items from this list after they have been added/discussed fully)
