@@ -10,6 +10,10 @@
 - [ ] A mod that properly uses curios API (suggested Artifacts)
 - [ ] Add mod that makes end interesting (nullscape does not work)
 - [ ] Maybe have a custom font for the modpack
+- [ ] Use Patchouli to make a guide book for the mod
+- [ ] Set up default keybinds in the defaultoptions folder
+- [ ] Move all modpack-related data to its own folder
+- [ ] 
 
 ### Mod Suggestions: (please only remove items from this list after they have been added/discussed fully)
 - [ ] [MrCrafish's Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
@@ -22,6 +26,12 @@
 - [ ] [Balanced Flight](https://www.curseforge.com/minecraft/mc-mods/balanced-flight) (Disable ascended ring)
 - [ ] [Epic Fight](https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod) (Amazing mod that adds minecraft dungeons-like RPG aspect, makes Neat obsolete, would add a ton of work, but also a ton of fun to gameplay)
 - [ ] [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis) (only for Enchantment, Spawner module (make the spawner modifiers expensive) and maybe the village module)
+- [ ] [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) (makes our lives a bit easier)
+- [ ] [Trash Slot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
+- [ ] [Enchantement Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
+- [ ] 
+- [ ] 
+- [ ] 
 
 ### Mods to add after they update (mods we really want to add but are stuck in older versions):
 - [ ] [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)

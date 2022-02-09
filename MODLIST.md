@@ -36,7 +36,6 @@
 - [Decorative Blocks Compat](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks-compat) (by stohun)
 - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) (by BlayTheNinth)
 - [Dungeons Mod](https://www.curseforge.com/minecraft/mc-mods/dungeons-mod) (by dainxt)
-- [Enchantement Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) (by DarkhaxDev)
 - [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) (by tr9zw)
 - [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) (by Chaosyr)
 - [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) (by SHadows_of_Fire)
