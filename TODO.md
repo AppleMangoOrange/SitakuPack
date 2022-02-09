@@ -13,6 +13,7 @@
 - [ ] Use Patchouli to make a guide book for the mod
 - [ ] Set up default keybinds in the defaultoptions folder
 - [ ] Move all modpack-related data to its own folder/.zip file
+- [ ] Remove recipes for default tools: iron, diamond, netherite
 - [ ] Test out modpack with current mods, decide whether to remove Biomes O' Plenty (and just keep Terralith)
 - [ ] Reduce ore spawning rates
 - [ ] Potentially reduce ore drop rates
