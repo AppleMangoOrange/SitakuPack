@@ -45,6 +45,7 @@
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (by jozufozu)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el)
 - [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) (by bl4ckscor3)
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)(by MrCrayfish)
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) (by BluSunrize)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters-forge) (by LatvianModder)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz)
