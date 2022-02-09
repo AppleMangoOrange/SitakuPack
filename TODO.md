@@ -1,18 +1,21 @@
 # Please do this stuff :)
 ## Not Ordered
 
-### Random Ideas:
+### Stuff that needs to be done:
 - [ ] See how well optifine works with the modpack (prob lots of glitches, so might not be useful at all)
-- [ ] Find a way to make the ender dragon fight harder
+- [ ] Find a way to make the ender dragon fight harder (SUGGESTED: Savage Ender Dragon OR Progressive Bosses)
 - [ ] Find a way to add more bosses
 - [ ] Make quark matrix enchanting pre-endgame. Lock regular enchanting to post-endgame.
 - [ ] One or two more dimension mods
-- [ ] A mod that properly uses curios API (suggested Artifacts)
+- [ ] A mod that properly uses curios API (SUGGESTED: Artifacts)
 - [ ] Add mod that makes end interesting (nullscape does not work)
 - [ ] Maybe have a custom font for the modpack
 - [ ] Use Patchouli to make a guide book for the mod
 - [ ] Set up default keybinds in the defaultoptions folder
-- [ ] Move all modpack-related data to its own folder
+- [ ] Move all modpack-related data to its own folder/.zip file
+- [ ] Test out modpack with current mods, decide whether to remove Biomes O' Plenty (and just keep Terralith)
+- [ ] 
+- [ ] 
 - [ ] 
 
 ### Mod Suggestions: (please only remove items from this list after they have been added/discussed fully)
@@ -29,7 +32,7 @@
 - [ ] [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) (makes our lives a bit easier)
 - [ ] [Trash Slot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
 - [ ] [Enchantement Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-- [ ] 
+- [ ] [Savage Ender Dragon](https://www.curseforge.com/minecraft/mc-mods/savage-ender-dragon) OR [Progressive Bosses](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses) (mods to make ender dragon more difficult)
 - [ ] 
 - [ ] 
 
