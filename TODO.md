@@ -16,7 +16,7 @@
 - [ ] Remove recipes for default tools: iron, diamond, netherite
 - [ ] Reduce ore spawning rates
 - [ ] Potentially reduce ore drop rates
-- [ ] 
+- [ ]
 
 ### Mod Suggestions: (please only remove items from this list after they have been added/discussed fully)
 - [ ] [MrCrafish's Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
@@ -32,9 +32,9 @@
 - [ ] [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) (makes our lives a bit easier)
 - [ ] [Trash Slot](https://www.curseforge.com/minecraft/mc-mods/trashslot)
 - [ ] [Enchantement Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ]
+- [ ]
+- [ ]
 
 ### Mods to add after they update (mods we really want to add but are stuck in older versions):
 - [ ] [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
@@ -55,5 +55,5 @@
 ### KubeJS (Add/Tweak recipes for):
 - [ ] Create
 - [ ] Immersive Engineering
+- [ ] Add custom items to make better recipes :)
 - [ ]
-- [ ] 
