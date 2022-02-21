@@ -36,17 +36,17 @@
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) (by Jaredlll08)
 - [Ding](https://www.curseforge.com/minecraft/mc-mods/ding)
 - [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) (by tr9zw)
-? [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire)
+- ? [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el)
-? [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (by YaLTeR)
+- ? [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (by YaLTeR)
 
 ## Server-only mods
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) (by QueenOfMissiles)
 - [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3) (by cominixo)
 - [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) (by tterrag1098)
-? [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) (by SHadows_of_Fire)
+- ? [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) (by SHadows_of_Fire)
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (by olafskii)
-? [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) (by bl4ckscor3)
+- ? [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) (by bl4ckscor3)
 - [spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko)
 
 ## Dependency mods
