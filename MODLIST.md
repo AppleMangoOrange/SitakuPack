@@ -11,6 +11,7 @@
 - [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) (by henkelmax)
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi)
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun)
+- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) (by BlayTheNinth)
 - [Etched](https://www.curseforge.com/minecraft/mc-mods/etched) (by moonflowerteam)
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz)
@@ -38,6 +39,7 @@
 - [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) (by tr9zw)
 - ? [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el)
+- [Lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) (by Corgi_Taco)
 - ? [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (by YaLTeR)
 
 ## Server-only mods
