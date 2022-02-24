@@ -1,4 +1,5 @@
 # Sitaku 8<sup>TH</sup> Survival
+<<<<<<< Updated upstream
 ## Ordered alphabetically (Report any discrepancies)
 - [Advanced Shulkerboxes](https://www.curseforge.com/minecraft/mc-mods/advanced-shulkerboxes) (by henkelmax)
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) (by QueenOfMissiles)
@@ -99,3 +100,113 @@
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) (by Serilum)
 - [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) (by Fuzs_)
 - [WindowLogging](https://www.curseforge.com/minecraft/mc-mods/windowlogging) (by mc_Grimmauld)
+=======
+### Ordered alphabetically (Report any discrepancies)
+
+## Generic mods (add features)
+- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (by Alexthe668) [Generic - Mobs]
+- [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) (by Starmute) [Generic - Dimension]
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) (by Tschipp) [Generic & QOL]
+- [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (by SquidDev) [Generic]
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Generic]
+- [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios) (by TheIllusiveC4) [Generic]
+- [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Generic]
+- [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Generic - Decor]
+- [Dungeons Mod](https://www.curseforge.com/minecraft/mc-mods/dungeons-mod) (by dainxt) [Generic - Bosses]
+- [Goblin Traders](https://www.curseforge.com/minecraft/mc-mods/goblin-traders)(by MrCrayfish) [Generic]
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) (by BluSunrize) [Generic]
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [Generic & QOL]
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz) [Generic & QOL]
+- [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (by techbrew) [Generic & QOL]
+- [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Generic]
+- [Minecolonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies/) [Generic]
+- [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings) (by AbsolemJackdaw) [Generic & QOL]
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) [Generic & QOL]
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (by Vazkii) [Generic & QOL]
+- [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) (by Vazkii) [Generic & QOL]
+- [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage) (by raoulvdberge) [Generic - Storage]
+- [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons) (by raoulvdberge) [Generic - Addon]
+- [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) [Generic - Storage]
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (by MehVahdJukaar) [Generic]
+- [Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith) (by Starmute) [Generic - Terrain]
+- [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) (by mickelus) [Generic - Items]
+- [Torchmaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster) (by xalcon) [Generic - Items]
+- [Valhelsia Structures](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures) (by ValhelsiaTeam) [Generic - Structures]
+
+
+## Quality-of-Life mods (make gameplay less irritating)
+- [Advanced Shulkerboxes](https://www.curseforge.com/minecraft/mc-mods/advanced-shulkerboxes) (by henkelmax) [QOL]
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (by squeek502) [QOL]
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) (by way2muchnoise) [QOL]
+- [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3) (by cominixo) [QOL]
+- [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) (by Fuzs_) [QOL]
+- [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) (by Socolio) [QOL]
+- [Bad Wither No Cookie](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) (by Kreezxii) [QOL]
+- [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) (makes our lives a bit easier) [QOL]
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) (by TheIllusiveC4)  [QOL]
+- [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) (by tterrag1098) [QOL]
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) (by MrCrayfish) [QOL]
+- [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) (by henkelmax) [QOL]
+- [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) (by LainMI) [QOL]
+- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) (by BlayTheNinth) [QOL]
+- [Ding](https://www.curseforge.com/minecraft/mc-mods/ding) [QOL]
+- [Etched](https://www.curseforge.com/minecraft/mc-mods/etched) (by moonflowerteam) [QOL]
+- [Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/explorers-compass) (by Chaosyr) [QOL - Time save]
+- [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr) (by Noobanidus) [QOL]
+- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (by YaLTeR) [QOL]
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (by Chaosyr) [Qol - Time Save]
+- [PathToDirt](https://www.curseforge.com/minecraft/mc-mods/path-to-dirt) (by Insane96MCP) [QOL]
+- [Random Shulker Colours](https://www.curseforge.com/minecraft/mc-mods/random-shulker-colours) (by Serilum) [QOL - looks]
+- [Respawning Shulkers](https://www.curseforge.com/minecraft/mc-mods/respawning-shulkers) (by Serilum) [QOL - Time Save]
+- [Selectable Painting](https://www.curseforge.com/minecraft/mc-mods/selectable-painting) [QOL - Time Save]
+- [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info) (by black_dog20) [QOL]
+- [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings) (by Corgi_Taco) [QOL]
+- [Sit](https://www.curseforge.com/minecraft/mc-mods/sit) (by bl4ckscor3) [QOL - looks]
+- [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) (by Serilum) [QOL - looks]
+- [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) (by Fuzs_) [QOL]
+- [WindowLogging](https://www.curseforge.com/minecraft/mc-mods/windowlogging) (by mc_Grimmauld) [QOL - looks]
+
+
+## Performance mods
+- [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements) (by QueenOfMissiles) [Performance]
+- [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) (by SpaceWalkerRS) [Performance]
+- [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) (by FionaTheMortal) [Performance]
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) (by Jaredlll08) [Performance]
+- [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) (by tr9zw) [Performance]
+- [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) (by SHadows_of_Fire) [Performance]
+- [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (by olafskii) [Performance & QOL]
+- [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire) [Performance]
+- [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el) [Performance]
+- [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) (by bl4ckscor3) [Performance]
+- [Lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) (by Corgi_Taco) [Performance]
+- [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) (by NatanFudge) [Performance & QOL]
+- [spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko) [Performance]
+
+
+## Library mods (used by other mods)
+- [Achitectury API](https://www.curseforge.com/minecraft/mc-mods/architectury-forge) (by shedaniel) [Library]
+- [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) (by Vazkii) [Library]
+- [Balm](https://www.curseforge.com/minecraft/mc-mods/balm) (by BlayTheNinth) [Library]
+- [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) (by sbom_xela) [Library]
+- [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge) (by shedaniel) [Library]
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) (by Serilum) [Library]
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) (by malte0811) [Library]
+- [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (by jozufozu) [Library]
+- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters-forge) (by LatvianModder) [Library]
+- [mutil](https://www.curseforge.com/minecraft/mc-mods/mutil) (by mickelus) [Library]
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli) (by Vazkii) [Library]
+- [Pizzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) (by Fuzs_) [Library]
+- [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) (by Shadows_of_Fire) [Library]
+- [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) (by LatvianModder) [Library]
+- [Selene Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (by MehVahdJukaar) [Library]
+- [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender) (by TheAdubbz) [Library]
+- [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) (by ValhelsiaTeam) [Library (Valhelsia Structures)]
+
+
+## Compat mods (add compatibility)
+- [Curios Quark Oddities Backpack](https://www.curseforge.com/minecraft/mc-mods/curios-quark-oddities-backpack) (by 6LeoMC) [Compat]
+- [Decorative Blocks Compat](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks-compat) (by stohun) [Compat]
+- [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [Compat]
+- [KubeJS Immerisve Engineering](https://www.curseforge.com/minecraft/mc-mods/kubejs-immersive-engineering) (by LatvianModder) [Compat]
+- [KubeJS UI](https://www.curseforge.com/minecraft/mc-mods/kubejs-ui-forge) (by LatvianModder) [Compat]
+>>>>>>> Stashed changes
