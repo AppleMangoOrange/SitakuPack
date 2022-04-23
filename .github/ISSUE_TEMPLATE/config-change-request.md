@@ -1,9 +1,9 @@
 ---
 name: Config change request
 about: Suggest a change in config files
-title: "[CONFIG]"
+title: "[CONFIG] <name>"
 labels: config
-assignees: AppleMangoOrange
+assignees: Squiddum
 
 ---
 
