@@ -4,11 +4,13 @@
 ### Generic mods (add features)
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (by Alexthe668) [Generic - Mobs]
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) (by Starmute) [Generic - Dimension]
+- [Brutal Bosses - Dungeon Bosses](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon) [Generic - Bosses]
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) (by Tschipp) [Generic & QOL]
 - [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (by SquidDev) [Generic]
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Generic]
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Generic]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Generic - Decor]
+- [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) [Generic & QOL - Entities, Pets]
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [Generic & QOL]
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz) [Generic & QOL]
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (by techbrew) [Generic & QOL]
