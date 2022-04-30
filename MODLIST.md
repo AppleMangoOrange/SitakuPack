@@ -75,6 +75,7 @@
 - [Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel) (by sbom_xela) [Library]
 - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge) (by shedaniel) [Library]
 - [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) (by Serilum) [Library]
+- [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) (by telepathicgrunt)
 - [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) (by malte0811) [Library]
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (by jozufozu) [Library]
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters-forge) (by LatvianModder) [Library]
