@@ -4,24 +4,24 @@
 ### Generic mods (add features)
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (by Alexthe668) [Mobs]
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) (by Starmute) [Dimension]
-- [Brutal Bosses - Dungeon Bosses](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon) [Bosses]
+- [Brutal Bosses - Dungeon Bosses](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon) (by someaddon) [Bosses]
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) (by Tschipp) [Functionality]
 - [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (by SquidDev) [Automation]
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Tech]
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
-- [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) [Entities, Pets]
-- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) [Functionality]
+- [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Entities, Pets]
+- [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) (by Snownee_) [Functionality]
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz)[Functionality]
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (by techbrew) [Map]
 - [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
 - [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape-end-reborn) (by Starmute) [Terrain]
 - [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings) (by AbsolemJackdaw) [Decor]
-- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) [Recipes]
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4) [Recipes]
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (by Vazkii) [Functionality]
 - [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) (by Vazkii) [Functionality]
 - [Repurposed Structures (Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (by telepathicgrunt) [Structures]
-- [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) [Storage]
+- [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) (by Lothrazar) [Storage]
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (by MehVahdJukaar) [Items, Functionality]
 - [Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith) (by Starmute) [Terrain]
 - [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) (by mickelus) [Items]
@@ -41,12 +41,12 @@
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) (by MrCrayfish)
 - [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) (by henkelmax) [Time Save]
 - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) (by BlayTheNinth)
-- [Ding](https://www.curseforge.com/minecraft/mc-mods/ding)
+- [Ding](https://www.curseforge.com/minecraft/mc-mods/ding) (by ohaiiChun)
 - [Lootr](https://www.curseforge.com/minecraft/mc-mods/lootr) (by Noobanidus)
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (by YaLTeR)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (by Chaosyr) [Time Save]
 - [Respawning Shulkers](https://www.curseforge.com/minecraft/mc-mods/respawning-shulkers) (by Serilum) [Time Save]
-- [Selectable Painting](https://www.curseforge.com/minecraft/mc-mods/selectable-painting) [Time Save]
+- [Selectable Painting](https://www.curseforge.com/minecraft/mc-mods/selectable-painting) (by GeheimagentNr1) [Time Save]
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info) (by black_dog20)
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) (by Serilum) [Fun]
 - [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) (by Fuzs_)
