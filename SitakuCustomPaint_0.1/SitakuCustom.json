@@ -1,0 +1,10 @@
+{
+	"comment": "Custom paintings for Sitaku Server",
+	"paintings": [
+		{
+			"name": "sitaku_3000perhr",
+			"x": "64",
+			"y": "48"
+		}
+	]
+}
