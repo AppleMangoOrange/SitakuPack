@@ -16,7 +16,6 @@
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz)[Functionality]
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (by techbrew) [Map]
 - [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
-- [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape-end-reborn) (by Starmute) [Terrain]
 - [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings) (by AbsolemJackdaw) [Decor]
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4) [Recipes]
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (by Vazkii) [Functionality]
@@ -97,8 +96,9 @@
 
 
 ### Datapacks
+- [Nullscape](https://www.planetminecraft.com/data-pack/nullscape/) [The End, Terrain]
 - [Repurposed Structures - Better Strongholds Compat Datapack](https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack) [Compatibility]
-- [Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith) [Terrain]
+- [Terralith 2.0](https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/) [Terrain]
 
 
 ### Resource Packs
