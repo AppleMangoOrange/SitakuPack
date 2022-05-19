@@ -12,10 +12,12 @@
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Entities, Pets]
 - [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge) [Enchanting]
+- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) [Structures]
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) (by Snownee_) [Functionality]
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz)[Functionality]
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (by techbrew) [Map]
 - [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
+- [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/mc2discord) [Discord]
 - [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings) (by AbsolemJackdaw) [Decor]
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4) [Recipes]
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (by Vazkii) [Functionality]
@@ -25,6 +27,12 @@
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (by MehVahdJukaar) [Items, Functionality]
 - [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) (by mickelus) [Items]
 - [Valhelsia Structures](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures) (by ValhelsiaTeam) [Structures]
+- [YUNG's mods](https://www.curseforge.com/members/yungnickyoung/projects) [Structures]
+  - [Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
+  - [Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+  - [Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
+  - [Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+  - [Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
 
 
 ### Quality-of-Life mods (make gameplay less irritating)
@@ -37,6 +45,7 @@
 - [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) (makes our lives a bit easier)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) (by TheIllusiveC4) 
 - [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) (by tterrag1098)
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) (by MrCrayfish)
 - [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) (by henkelmax) [Time Save]
 - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) (by BlayTheNinth)
@@ -45,6 +54,7 @@
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (by YaLTeR)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (by Chaosyr) [Time Save]
 - [Respawning Shulkers](https://www.curseforge.com/minecraft/mc-mods/respawning-shulkers) (by Serilum) [Time Save]
+- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
 - [Selectable Painting](https://www.curseforge.com/minecraft/mc-mods/selectable-painting) (by GeheimagentNr1) [Time Save]
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info) (by black_dog20)
 - [Trading Post [Forge]](https://www.curseforge.com/minecraft/mc-mods/trading-post) [Time Save]
@@ -87,12 +97,14 @@
 - [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) (by LatvianModder)
 - [Selene Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (by MehVahdJukaar)
 - [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) (by ValhelsiaTeam) [Valhelsia Structures]
+- [YUNG's API(Forge)](https://www.curseforge.com/minecraft/mc-mods/yungs-api) [YUNG's Mods]
 
 
 ### Add-ons
 - [Art of Forging: A Tetra Addon](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon) [Tetra]
 - [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [KubeJS, Create]
 - [KubeJS UI (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-ui-forge) (by LatvianModder) [KubeJS, Minecraft]
+- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) [Rubidium]
 
 
 ### Datapacks
