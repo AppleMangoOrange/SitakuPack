@@ -11,11 +11,13 @@
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Entities, Pets]
+- [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge) [Enchanting]
+- [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) [Structures]
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) (by Snownee_) [Functionality]
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz)[Functionality]
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (by techbrew) [Map]
 - [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
-- [Nullscape](https://www.curseforge.com/minecraft/mc-mods/nullscape-end-reborn) (by Starmute) [Terrain]
+- [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/mc2discord) [Discord]
 - [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings) (by AbsolemJackdaw) [Decor]
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4) [Recipes]
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) (by Vazkii) [Functionality]
@@ -23,9 +25,14 @@
 - [Repurposed Structures (Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (by telepathicgrunt) [Structures]
 - [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) (by Lothrazar) [Storage]
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (by MehVahdJukaar) [Items, Functionality]
-- [Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith) (by Starmute) [Terrain]
 - [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) (by mickelus) [Items]
 - [Valhelsia Structures](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures) (by ValhelsiaTeam) [Structures]
+- [YUNG's mods](https://www.curseforge.com/members/yungnickyoung/projects) [Structures]
+  - [Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
+  - [Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
+  - [Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
+  - [Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+  - [Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
 
 
 ### Quality-of-Life mods (make gameplay less irritating)
@@ -38,6 +45,7 @@
 - [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) (makes our lives a bit easier)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) (by TheIllusiveC4) 
 - [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) (by tterrag1098)
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) (by MrCrayfish)
 - [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) (by henkelmax) [Time Save]
 - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) (by BlayTheNinth)
@@ -46,8 +54,10 @@
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) (by YaLTeR)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (by Chaosyr) [Time Save]
 - [Respawning Shulkers](https://www.curseforge.com/minecraft/mc-mods/respawning-shulkers) (by Serilum) [Time Save]
+- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
 - [Selectable Painting](https://www.curseforge.com/minecraft/mc-mods/selectable-painting) (by GeheimagentNr1) [Time Save]
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info) (by black_dog20)
+- [Trading Post [Forge]](https://www.curseforge.com/minecraft/mc-mods/trading-post) [Time Save]
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) (by Serilum) [Fun]
 - [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) (by Fuzs_)
 
@@ -66,6 +76,7 @@
 - [Lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) (by Corgi_Taco)
 - [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) (by NatanFudge)
 - [spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko)
+- [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
 
 
 ### Library mods (used by other mods)
@@ -86,8 +97,24 @@
 - [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) (by LatvianModder)
 - [Selene Lib](https://www.curseforge.com/minecraft/mc-mods/selene) (by MehVahdJukaar)
 - [Valhelsia Core](https://www.curseforge.com/minecraft/mc-mods/valhelsia-core) (by ValhelsiaTeam) [Valhelsia Structures]
+- [YUNG's API(Forge)](https://www.curseforge.com/minecraft/mc-mods/yungs-api) [YUNG's Mods]
 
 
-### Compat mods (add compatibility)
+### Add-ons
+- [Art of Forging: A Tetra Addon](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon) [Tetra]
 - [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [KubeJS, Create]
 - [KubeJS UI (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-ui-forge) (by LatvianModder) [KubeJS, Minecraft]
+- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) [Rubidium]
+
+
+### Datapacks
+- [Nullscape](https://www.planetminecraft.com/data-pack/nullscape/) [The End, Terrain]
+- [Repurposed Structures - Better Strongholds Compat Datapack](https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack) [Compatibility]
+- [Terralith 2.0](https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/) [Terrain]
+
+
+### Resource Packs
+- [BrewingCanvas - Potion Guide](https://www.curseforge.com/minecraft/texture-packs/brewingcanvas-potion-guide) [Paintings++]
+- [Created Simple Storage Network](https://www.curseforge.com/minecraft/texture-packs/created-storage-network) [Create, Simple Storage Network]
+- [Oliver Remund Painting Pack](https://www.curseforge.com/minecraft/texture-packs/oliver-remund-painting-pack) [Paintings++]
+- [Sitaku Paintings Pack](https://github.com/AppleMangoOrange/SitakuPack) [Paintings++]
