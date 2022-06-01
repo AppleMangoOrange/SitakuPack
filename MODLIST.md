@@ -11,7 +11,7 @@
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Entities, Pets]
-- [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge) [Enchanting]
+- [Global Data- & Resourcepacks](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack) [Resource, Data packs]
 - [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) [Structures]
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) (by Snownee_) [Functionality]
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz)[Functionality]
@@ -25,6 +25,7 @@
 - [Repurposed Structures (Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (by telepathicgrunt) [Structures]
 - [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) (by Lothrazar) [Storage]
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (by MehVahdJukaar) [Items, Functionality]
+- [Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith/files/3696607) [Terrain]
 - [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) (by mickelus) [Items]
 - [Valhelsia Structures](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures) (by ValhelsiaTeam) [Structures]
 - [YUNG's mods](https://www.curseforge.com/members/yungnickyoung/projects) [Structures]
@@ -55,7 +56,6 @@
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (by Chaosyr) [Time Save]
 - [Respawning Shulkers](https://www.curseforge.com/minecraft/mc-mods/respawning-shulkers) (by Serilum) [Time Save]
 - [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
-- [Selectable Painting](https://www.curseforge.com/minecraft/mc-mods/selectable-painting) (by GeheimagentNr1) [Time Save]
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info) (by black_dog20)
 - [Trading Post [Forge]](https://www.curseforge.com/minecraft/mc-mods/trading-post) [Time Save]
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) (by Serilum) [Fun]
@@ -71,10 +71,11 @@
 - [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) (by SHadows_of_Fire)
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (by olafskii)
 - [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire)
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) (by malte0811)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el)
-- [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) (by bl4ckscor3)
 - [Lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) (by Corgi_Taco)
 - [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) (by NatanFudge)
+- [Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) (Lithium for Forge)
 - [spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko)
 - [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
 
@@ -87,7 +88,6 @@
 - [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge) (by shedaniel)
 - [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) (by Serilum)
 - [Feature NBT Deadlock Be Gone](https://www.curseforge.com/minecraft/mc-mods/feature-nbt-deadlock-be-gone) (by telepathicgrunt)
-- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) (by malte0811)
 - [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) (by jozufozu)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters-forge) (by LatvianModder)
 - [mutil](https://www.curseforge.com/minecraft/mc-mods/mutil) (by mickelus)
@@ -110,7 +110,6 @@
 ### Datapacks
 - [Nullscape](https://www.planetminecraft.com/data-pack/nullscape/) [The End, Terrain]
 - [Repurposed Structures - Better Strongholds Compat Datapack](https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack) [Compatibility]
-- [Terralith 2.0](https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/) [Terrain]
 
 
 ### Resource Packs
