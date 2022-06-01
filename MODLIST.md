@@ -24,6 +24,7 @@
 - [Repurposed Structures (Forge)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) (by telepathicgrunt) [Structures]
 - [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) (by Lothrazar) [Storage]
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) (by MehVahdJukaar) [Items, Functionality]
+- [Terralith 2.0](https://www.curseforge.com/minecraft/mc-mods/terralith/files/3696607) [Terrain]
 - [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) (by mickelus) [Items]
 - [Valhelsia Structures](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures) (by ValhelsiaTeam) [Structures]
 - [YUNG's mods](https://www.curseforge.com/members/yungnickyoung/projects) [Structures]
@@ -107,7 +108,6 @@
 ### Datapacks
 - [Nullscape](https://www.planetminecraft.com/data-pack/nullscape/) [The End, Terrain]
 - [Repurposed Structures - Better Strongholds Compat Datapack](https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack) [Compatibility]
-- [Terralith 2.0](https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/) [Terrain]
 
 
 ### Resource Packs
