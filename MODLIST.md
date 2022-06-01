@@ -75,6 +75,7 @@
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el)
 - [Lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) (by Corgi_Taco)
 - [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) (by NatanFudge)
+- [Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) (Lithium for Forge)
 - [spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko)
 - [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
 
