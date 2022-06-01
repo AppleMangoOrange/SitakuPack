@@ -11,6 +11,7 @@
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Entities, Pets]
+- [Global Data- & Resourcepacks](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack) [Resource, Data packs]
 - [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) [Structures]
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) (by Snownee_) [Functionality]
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz)[Functionality]
