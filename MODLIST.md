@@ -55,7 +55,6 @@
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) (by Chaosyr) [Time Save]
 - [Respawning Shulkers](https://www.curseforge.com/minecraft/mc-mods/respawning-shulkers) (by Serilum) [Time Save]
 - [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
-- [Selectable Painting](https://www.curseforge.com/minecraft/mc-mods/selectable-painting) (by GeheimagentNr1) [Time Save]
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info) (by black_dog20)
 - [Trading Post [Forge]](https://www.curseforge.com/minecraft/mc-mods/trading-post) [Time Save]
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) (by Serilum) [Fun]
