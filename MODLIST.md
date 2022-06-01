@@ -11,7 +11,6 @@
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Entities, Pets]
-- [Enchanting Infuser](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge) [Enchanting]
 - [Integrated Dungeons and Structures](https://www.curseforge.com/minecraft/mc-mods/idas) [Structures]
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) (by Snownee_) [Functionality]
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz)[Functionality]
@@ -71,7 +70,6 @@
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (by olafskii)
 - [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el)
-- [Get It Together, Drops!](https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops) (by bl4ckscor3)
 - [Lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) (by Corgi_Taco)
 - [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) (by NatanFudge)
 - [spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko)
