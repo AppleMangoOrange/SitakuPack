@@ -7,6 +7,7 @@
 - [Brutal Bosses - Dungeon Bosses](https://www.curseforge.com/minecraft/mc-mods/brutal-bosses-dungeon) (by someaddon) [Bosses]
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) (by Tschipp) [Functionality]
 - [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (by SquidDev) [Automation]
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) (Jaredlll08) [Recipes]
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Tech]
 - [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
