@@ -1,6 +1,8 @@
 # Sitaku 8<sup>TH</sup> Survival
 ## Ordered alphabetically (Report any discrepancies)
 
+### Click this [link](https://moddermore.vercel.app/list/0465149ae2) to see the modlist (Data- and Resource packs not included)
+
 ### Generic mods (add features)
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (by Alexthe668) [Mobs]
 - [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether) (by Starmute) [Dimension]
