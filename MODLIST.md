@@ -11,7 +11,7 @@
 - [CC-Tweaked](https://www.curseforge.com/minecraft/mc-mods/cc-tweaked) (by SquidDev) [Automation]
 - [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) (Jaredlll08) [Recipes]
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) (by simibubi) [Tech]
-- [Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
+- *[Custom Villager Trades](https://www.curseforge.com/minecraft/mc-mods/custom-villager-trades) (by SpaceCat_97) [Functionality]
 - [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks) (by stohun) [Decor]
 - [Domestication Innovation](https://www.curseforge.com/minecraft/mc-mods/domestication-innovation) (by sbom_xela) [Entities, Pets]
 - [Global Packs](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack) [Resource, Data packs]
@@ -19,7 +19,6 @@
 - [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) (by Snownee_) [Functionality]
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (by mezz)[Functionality]
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) (by techbrew) [Map]
-- [KubeJS (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-forge) (by LatvianModder) [Recipes]
 - [Mc2Discord](https://www.curseforge.com/minecraft/mc-mods/mc2discord) [Discord]
 - [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings) (by AbsolemJackdaw) [Decor]
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) (by TheIllusiveC4) [Recipes]
@@ -33,20 +32,19 @@
 - [Valhelsia Structures](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures) (by ValhelsiaTeam) [Structures]
 - [YUNG's mods](https://www.curseforge.com/members/yungnickyoung/projects) [Structures]
   - [Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges)
+  - [Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
   - [Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons)
   - [Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)
   - [Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
   - [Strongholds](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds)
-  - [Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples)
   - [Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts)
 
 
 ### Quality-of-Life mods (make gameplay less irritating)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) (by squeek502)
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) (by way2muchnoise)
-- [Better F3](https://www.curseforge.com/minecraft/mc-mods/betterf3) (by cominixo)
+- [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) (by cominixo)
 - [Better Mods Button](https://www.curseforge.com/minecraft/mc-mods/better-mods-button) (by Fuzs_)
-- [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) (by Socolio)
 - [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) (by Kreezxii)
 - [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue) (makes our lives a bit easier)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) (by TheIllusiveC4) 
@@ -64,7 +62,6 @@
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info) (by black_dog20)
 - [Trading Post [Forge]](https://www.curseforge.com/minecraft/mc-mods/trading-post) [Time Save]
 - [Villager Names](https://www.curseforge.com/minecraft/mc-mods/villager-names) (by Serilum) [Fun]
-- [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) (by Fuzs_)
 
 
 ### Performance mods
@@ -72,7 +69,7 @@
 - [Alternate Current](https://www.curseforge.com/minecraft/mc-mods/alternate-current) (by SpaceWalkerRS)
 - [Better Biome Blend](https://www.curseforge.com/minecraft/mc-mods/better-biome-blend) (by FionaTheMortal)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) (by Jaredlll08)
-- [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) (by tr9zw)
+- *[Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) (by tr9zw)
 - [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) (by SHadows_of_Fire)
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) (by olafskii)
 - [Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (by Shadows_of_Fire)
@@ -80,10 +77,10 @@
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) (by bre2el)
 - [Lazy DFU](https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge) (by Corgi_Taco)
 - [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes-forge) (by NatanFudge)
-- [Radium](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) (Lithium for Forge)
+- [Radium Reforged](https://www.curseforge.com/minecraft/mc-mods/radium-reforged) (Lithium for Forge)
 - [Rubidium Reforged](https://www.curseforge.com/minecraft/mc-mods/rubidium)
 - [spark](https://www.curseforge.com/minecraft/mc-mods/spark) (by lucko)
-- [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
+- [Starlight (Forge)](https://www.curseforge.com/minecraft/mc-mods/starlight-forge) (<b>Dangerous</b>)
 
 
 ### Library mods (used by other mods)
@@ -109,8 +106,7 @@
 ### Add-ons
 - [Art of Forging: A Tetra Addon](https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon) [Tetra]
 - [Iris & Oculus Flywheel Compat](https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat)
-- [KubeJs Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) (by LatvianModder) [KubeJS, Create]
-- [KubeJS UI (Forge)](https://www.curseforge.com/minecraft/mc-mods/kubejs-ui-forge) (by LatvianModder) [KubeJS, Minecraft]
+- [Jade Addons (Forge)](https://www.curseforge.com/minecraft/mc-mods/jade-addons) (Snownee_)
 - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) [Rubidium]
 
 
